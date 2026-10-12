@@ -1,0 +1,8 @@
+{
+  "name": "Gravador de Tela Pro",
+  "description": "High-performance, lightweight screen recorder with Material Design 3, offering 4K quality, hardware acceleration, and minimal resource consumption for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
